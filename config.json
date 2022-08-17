@@ -1,0 +1,9 @@
+{
+	"ip":"Ipixelnetwork.aternos.me",
+	"port": 14494,
+	"name": "IpixelBot",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register (IpixelBot) ",
+	"login-cmd":"/login (IpixelBot)"
+}
